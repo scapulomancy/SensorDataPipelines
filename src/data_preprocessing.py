@@ -13,7 +13,7 @@ from rasterio import mask
 import numpy.ma as ma
 import warnings
 # To run correctly GDAL, you have to indicate the Library\share\gdal directory
-os.environ['GDAL_DATA'] = r"C:\Users\jbrisson\.conda\envs\pp-sensors-data\Library\share\gdal"
+# os.environ['GDAL_DATA'] = r"path"
 
 """
 ************************Pipelines Class***********************
