@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="scapulomancy", # Replace with your own username
+    name="spatial-pipeline-sensors", # Replace with your own username
     version="0.0.1",
     author="scapulomancy",
     description="Spatial Data Pipeline with some aggregations functions, useful to aggregate data around sensors",
