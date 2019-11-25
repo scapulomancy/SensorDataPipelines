@@ -10,10 +10,10 @@ setuptools.setup(
     description="Spatial Data Pipeline with some aggregations functions, useful to aggregate data around sensors",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/scapulomancy/SensorDataPipelines",
     packages=setuptools.find_packages(),
     classifiers=[
-        "Programming Language :: Python :: 3",
+        "Programming Language :: Python :: 3.7.5",
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
