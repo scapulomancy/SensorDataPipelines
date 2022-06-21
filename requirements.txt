@@ -14,7 +14,7 @@ mkl-fft==1.0.15
 mkl-random==1.1.0
 mkl-service==2.3.0
 munch==2.5.0
-numpy==1.17.3
+numpy==1.22.0
 pandas==0.25.2
 PyKrige==1.4.0
 pyparsing==2.4.4
